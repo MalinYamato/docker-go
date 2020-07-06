@@ -6,7 +6,7 @@ import (
 )
 
 func helloHandler(w http.ResponseWriter, r *http.Request) {
-    w.Write([]byte("Hello World dfsdfs"))
+    w.Write([]byte("Hello fsdfs"))
 }
 
 func main() {
